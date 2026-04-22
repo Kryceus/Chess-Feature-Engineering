@@ -32,7 +32,7 @@ Underdeveloped: 50% loss rate when worse than opponent
 - Google Colab
 
 ## Limitations and future improvements
-- Does not account for opening theory when measuring development
+- Can improve on opening theory and endgame strategies
 - Correlation metrics depend on sample size — more games gives more reliable results
 - Future: add Stockfish centipawn loss as ground truth label
 - Future: implement machine learning and cluster players by weakness pattern across a database of users
