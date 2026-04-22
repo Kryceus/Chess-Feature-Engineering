@@ -35,4 +35,4 @@ Underdeveloped: 50% loss rate when worse than opponent
 - Does not account for opening theory when measuring development
 - Correlation metrics depend on sample size — more games gives more reliable results
 - Future: add Stockfish centipawn loss as ground truth label
-- Future: cluster players by weakness pattern across a database of users
+- Future: implement machine learning and cluster players by weakness pattern across a database of users
